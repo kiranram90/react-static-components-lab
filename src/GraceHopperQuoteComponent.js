@@ -10,7 +10,7 @@ export class GraceHopperQuoteComponent extends Component {
 					</p>
 				</i>
 				<br />
-				&#9;-Admiral Grace Hopper
+				&#9;-Admiral Grace Hoppe
 			</div>
 		);
 	}
